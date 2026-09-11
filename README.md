@@ -1,3 +1,9 @@
+# DikeGuard
+Ein verteiltes Sensornetzwerk auf Basus von ESP32-Mikrocontroller zur Erfassung und Übertragung von Sensordaten.
+
+#Projekt
+Das Projekt wurde im Rahmen meines Studium in einem entwickelt und beschäftigt sich mit der Kommunikation zwischen verteilten Mikrocontroller sowie der Erfassung und Übertragung von Sensordaten. Mein Schwerpunkt lag auf der Implementierung der Technologien BLE, ESPNOW und der Applikationsschicht. 
+
 # getting started
 1. Repository Clonen (https://git.informatik.uni-hamburg.de/iss/stud/bp/bachelorprojekt-ss2026/freertos
 )
